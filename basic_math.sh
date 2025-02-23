@@ -6,7 +6,7 @@ echo $(($1-$2))
 echo $(($1/$2))
 
 echo "----------------------------------------------------"
-echo "Another Way"
+echo "Another Way: "
 num=$1
 num2=$2
 echo $((num+num2))
